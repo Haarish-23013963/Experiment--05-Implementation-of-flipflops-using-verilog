@@ -101,8 +101,14 @@ From the above characteristic table, we can directly write the next state equati
 Q(t+1)=T′Q(t)+TQ(t)′
 ⇒Q(t+1)=T⊕Q(t)
 
-## Procedure
+## Procedure:
+1.Using nand gates and wires construct SR flipflop.
 
+2.Repeat same steps to constuct JK,D,T flipflops
+
+3.find Rtl logic and timing diagram for all flipflops
+
+4.End the program.
 
 
 
